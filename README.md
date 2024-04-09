@@ -1,6 +1,8 @@
-### HSE CV Course
+HSE CV Course
+==========
 
-**Navigation**
+### Navigation
+
 ```
 intersecting_road_lines/ -- Homework 1
 TBD                      -- Homework 2
