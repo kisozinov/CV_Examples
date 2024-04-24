@@ -5,5 +5,5 @@ HSE CV Course
 
 ```
 intersecting_road_lines/ -- Homework 1
-TBD                      -- Homework 2
+convolution                      -- Homework 2
 ```
